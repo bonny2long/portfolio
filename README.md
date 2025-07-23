@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Bonny Makaniankhondo Portfolio
+Welcome to my personal portfolio website! This project showcases my skills as a Full Stack Developer, featuring a clean and responsive design built with Next.js, React, Tailwind CSS, and TypeScript. It highlights my featured projects, technical skills, and professional background.
+Project Overview
+This portfolio includes:
 
-## Getting Started
+A homepage with sections for introduction, featured projects, skills, about me, and contact information.
+A navigation menu with links to key sections and an "All Projects" page.
+A custom "BM" favicon for browser tabs.
+Responsive design with a 2x2 grid for featured projects.
 
-First, run the development server:
+Technologies Used
 
-```bash
+Frontend: React 19.1.0, Next.js 15.4.2, Tailwind CSS
+Styling: Tailwind CSS 4, custom CSS modules
+TypeScript: Version ^5 with type definitions for React and Node
+Fonts: Geist Sans and Geist Mono via Google Fonts
+Deployment: Vercel (recommended)
+
+Getting Started
+Prerequisites
+
+Node.js (v18 or later)
+npm (comes with Node.js)
+
+Installation
+
+Clone the repository:
+git clone https://github.com/bonny2long/your-portfolio-repo.git
+cd your-portfolio-repo
+
+
+Install dependencies:
+npm install
+
+
+Start the development server:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open your browser and visit http://localhost:3000.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+Available Scripts
 
-To learn more about Next.js, take a look at the following resources:
+npm run dev: Starts the development server.
+npm run build: Builds the production version of the app.
+npm run start: Starts the production server.
+npm run lint: Runs ESLint to check for code issues.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Project Structure
+portfolio/
+├── public/              # Static assets (e.g., favicon.svg)
+├── src/
+│   ├── app/            # Next.js app directory
+│   │   ├── layout.tsx  # Root layout with navigation
+│   │   ├── page.tsx    # Homepage content
+│   │   └── globals.css # Global styles
+│   ├── components/     # Reusable components (e.g., HeroSection, ProjectsSection)
+│   └── types/          # Optional TypeScript types
+├── package.json        # Project dependencies and scripts
+└── README.md           # This file
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Featured Projects
 
-## Deploy on Vercel
+ChefBonBon: AI-powered recipe generator with Firebase auth.
+JavaScript Calculator: Basic calculator built with React.
+Markdown Previewer: Live Markdown preview tool.
+WorldWise App: Travel tracking app with a map interface.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+View all projects on the All Projects page or visit my GitHub for more.
+Contributing
+This is a personal portfolio, but feel free to fork and submit pull requests if you'd like to contribute improvements. Please follow the existing code style and open an issue for discussion first.
+License
+This project is for personal use and demonstration. No formal license is applied, but feel free to use it as inspiration with credit.
+Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Email: bonnymak@icloud.com
+Phone: 574-999-6174
+GitHub: github.com/bonny2long
