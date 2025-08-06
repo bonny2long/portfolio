@@ -14,8 +14,7 @@ export default function HeroSection() {
             Full Stack Developer
           </h2>
           <p className="text-lg text-gray-700 max-w-3xl mx-auto mb-8">
-            Front-end developer actively growing into full-stack development, with expertise in React, Node.js, and modern web technologies. 
-            Passionate about clean code, interactive user experiences, and scalable backend systems.
+           Dynamic and detail-oriented Full Stack Developer transitioning from an engineering background, with a strong foundation in modern web technologies. Certified in JavaScript, Front End Development Libraries, Data Structures, and Responsive Web Design, I excel in building responsive, user-friendly applications using React, Next.js, Node.js, and Tailwind CSS. With a proven track record in technical problem-solving and a passion for clean code and scalable systems, I am eager to contribute to innovative, collaborative teams. Recent projects showcase my ability to integrate APIs, manage state, and deploy robust web solutions.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
