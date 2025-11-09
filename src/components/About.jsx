@@ -15,16 +15,28 @@ export default function About() {
         <h2 className="text-4xl font-display font-bold mb-6 text-emerald-600">
           About Me
         </h2>
+
         <p className="text-lg leading-relaxed text-slate-600 max-w-3xl mx-auto">
           I’m Bonny Makaniankhondo — a{" "}
-          <span className="font-semibold">Full-Stack Developer</span>
-          with a passion for crafting scalable, elegant web applications using
+          <span className="font-semibold">Full-Stack Developer</span> with a
+          background in engineering and a deep passion for building tools that
+          make people’s lives easier. My journey into tech started with
+          curiosity — learning how systems work, break, and can be improved —
+          and it naturally led me to software development, where I found the
+          perfect mix of creativity and logic.
+        </p>
+
+        <p className="text-lg leading-relaxed text-slate-600 max-w-3xl mx-auto mt-4">
+          I specialize in{" "}
           <span className="font-semibold">
-            {" "}
-            modern JavaScript, cloud services, and AI tools
+            modern JavaScript, cloud services, and AI-powered applications
           </span>
-          . I focus on building systems that connect people, simplify workflows,
-          and grow with purpose.
+          , focusing on building scalable, elegant, and human-centered web
+          experiences. I’m currently part of{" "}
+          <span className="font-semibold">i.c.stars | Chicago</span>, where I’ve
+          worked on projects using React, Node.js, Azure, and Power BI —
+          creating solutions that connect people, simplify workflows, and grow
+          with purpose.
         </p>
       </div>
     </motion.section>
