@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "ChefBot",
+    "description": "AI-powered recipe app built with React, Tailwind, and Firebase that generates meals from ingredients you have on hand.",
+    "tech": ["React", "Tailwind", "Firebase", "OpenAI API"],
+    "link": "https://github.com/bonny2long/chefbot"
+  },
+  {
+    "id": 2,
+    "title": "SyncUp",
+    "description": "A mentorship and collaboration platform connecting i.c.stars interns and alumni through projects and feedback.",
+    "tech": ["Next.js", "Node.js", "Azure", "MongoDB"],
+    "link": "https://github.com/bonny2long/syncup"
+  },
+  {
+    "id": 3,
+    "title": "D.A.S.H. (United Airlines)",
+    "description": "Analytics dashboard for real-time issue tracking and sentiment insights built in collaboration with United Airlines mentors.",
+    "tech": ["React", "Power BI", "Azure ML"],
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Security Buddy",
+    "description": "Privacy-focused companion app that helps users understand and improve their digital security posture through friendly AI guidance.",
+    "tech": ["React", "Supabase", "Vite", "Tailwind"],
+    "link": "https://github.com/bonny2long/bonnys-security-buddy"
+  }
+]
