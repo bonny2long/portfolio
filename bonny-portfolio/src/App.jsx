@@ -17,11 +17,11 @@ export default function App() {
         <About />
         <Projects />
         <Resume />
+
         <Contact />
       </main>
       <footer className="bg-slate-900 text-white text-center py-6 text-sm">
-        © {new Date().getFullYear()} Bonny Makaniankhondo • Built with React &
-        Tailwind
+        © {new Date().getFullYear()} Bonny Makaniankhondo. All rights reserved.
       </footer>
     </div>
   );

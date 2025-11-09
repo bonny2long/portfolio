@@ -1,5 +1,4 @@
 import React from "react";
-import ThemeToggle from "./ThemeToggle";
 
 export default function Navbar() {
   return (
@@ -20,7 +19,6 @@ export default function Navbar() {
             </li>
           ))}
         </ul>
-        <ThemeToggle />
       </div>
     </nav>
   );
