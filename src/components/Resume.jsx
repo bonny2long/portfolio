@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import resumePDF from "../assets/images/resume..pdf"; // ← put your latest resume here
+import resumePDF from "../assets/images/Bonny-Makaniankhondo-Resume.pdf"; // ← put your latest resume here
 
 export default function Resume() {
   return (
