@@ -21,8 +21,8 @@ export default function About() {
           <span className="font-semibold">Full-Stack Developer</span> with a
           background in construction engineering and a deep passion for building
           tools that make people’s lives easier. My journey into tech started
-          with curiosity — learning how systems work, break, and can be improved
-          — and it naturally led me to software development, where I found the
+          with curiosity, learning how systems work, break, and can be improved,
+          and it naturally led me to software development, where I found the
           perfect mix of creativity and logic.
         </p>
 

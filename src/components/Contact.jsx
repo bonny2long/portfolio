@@ -30,7 +30,7 @@ export default function Contact() {
         </h2>
         <p className="text-lg text-slate-600 mb-10 max-w-2xl mx-auto">
           Have a question, collaboration idea, or just want to connect? Drop a
-          message below — I’d love to hear from you.
+          message below. I’d love to hear from you.
         </p>
 
         <form
