@@ -118,7 +118,7 @@ Privacy-focused companion app that helps users understand and improve their digi
 
 ## Portfolio Website
 
-**Live Site:** [bonnymakaniankhondo.netlify.app](https://bonnymakaniankhondo.netlify.app/)
+**Live Site:** [https://portfolio-bonny.netlify.app](https://bonnymakaniankhondo.netlify.app/)
 
 Modern, responsive developer portfolio built with React, Vite, and Tailwind CSS. Features smooth Framer Motion animations, project showcase, and integrated contact form.
 
