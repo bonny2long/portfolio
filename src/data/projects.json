@@ -2,9 +2,9 @@
   {
     "id": 1,
     "title": "ChefBot",
-    "description": "AI-powered recipe app built with React, Tailwind, and Firebase that generates meals from ingredients you have on hand.",
-    "tech": ["React", "Tailwind", "Firebase", "OpenAI API"],
-    "link": "https://github.com/bonny2long/chefbot"
+    "description": "Full-stack AI recipe generator with React, Node.js/Express, and Claude AI. Features user authentication, social recipe sharing, and real-time updates. Successfully migrated from Firebase (NoSQL) to Supabase (PostgreSQL), architecting a complete relational schema with Row Level Security policies from scratch.",
+    "tech": ["React", "Node.js", "Supabase", "Claude AI", "PostgreSQL", "Tailwind"],
+    "link": "https://chefbonbon.netlify.app/"
   },
   {
     "id": 2,
@@ -15,9 +15,9 @@
   },
   {
     "id": 3,
-    "title": "D.A.S.H. (United Airlines)",
-    "description": "Analytics dashboard for real-time issue tracking and sentiment insights built in collaboration with United Airlines mentors.",
-    "tech": ["React", "Power BI", "Azure ML"],
+    "title": "D.A.S.H (United Airlines)",
+    "description": "Enterprise-grade AI-powered customer analytics platform for United Airlines executives and analysts. Features role-based access control, real-time sentiment analysis, NPS tracking, and Claude AI-generated insights. Built by Team Metis during i.c.stars Cycle 58 in collaboration with United Airlines mentors.",
+    "tech": ["React", "Node.js", "Express", "Claude AI", "Recharts", "TailwindCSS"],
     "link": "#"
   },
   {
