@@ -1,30 +1,23 @@
 [
   {
     "id": 1,
-    "title": "ChefBot",
-    "description": "Full-stack AI recipe generator with React, Node.js/Express, and Claude AI. Features user authentication, social recipe sharing, and real-time updates. Successfully migrated from Firebase (NoSQL) to Supabase (PostgreSQL), architecting a complete relational schema with Row Level Security policies from scratch.",
-    "tech": ["React", "Node.js", "Supabase", "Claude AI", "PostgreSQL", "Tailwind"],
+    "title": "ChefBonBon",
+    "description": "Full-stack AI recipe platform using React, Node.js/Express, and Claude. Migrated from Firebase/Firestore to Supabase/Postgres with a fresh relational schema, secure auth, and real-time social features.",
+    "tech": ["React", "Node.js", "Supabase", "PostgreSQL", "Claude AI", "Tailwind"],
     "link": "https://chefbonbon.netlify.app/"
   },
   {
     "id": 2,
-    "title": "SyncUp",
-    "description": "A mentorship and collaboration platform connecting i.c.stars interns and alumni through projects and feedback.",
+    "title": "SynceUp",
+    "description": "Collaboration and mentorship platform for interns and alumni. Leading frontend architecture, responsive layouts, and analytics experiences that keep participants engaged while we iterate toward launch.",
     "tech": ["Next.js", "Node.js", "Azure", "MongoDB"],
     "link": "https://github.com/bonny2long/syncup"
   },
   {
     "id": 3,
-    "title": "D.A.S.H (United Airlines)",
-    "description": "Enterprise-grade AI-powered customer analytics platform for United Airlines executives and analysts. Features role-based access control, real-time sentiment analysis, NPS tracking, and Claude AI-generated insights. Built by Team Metis during i.c.stars Cycle 58 in collaboration with United Airlines mentors.",
-    "tech": ["React", "Node.js", "Express", "Claude AI", "Recharts", "TailwindCSS"],
+    "title": "Analytics Dashboard",
+    "description": "Multi-hub analytics platform that converts customer signals into leader-ready summaries. Includes role-based access, deep filtering, AI-generated insights, and data transformation utilities for reliable KPIs.",
+    "tech": ["React", "Node.js", "Express", "Recharts", "Claude AI", "TailwindCSS"],
     "link": "#"
-  },
-  {
-    "id": 4,
-    "title": "Security Buddy",
-    "description": "Privacy-focused companion app that helps users understand and improve their digital security posture through friendly AI guidance.",
-    "tech": ["React", "Supabase", "Vite", "Tailwind"],
-    "link": "https://github.com/bonny2long/bonnys-security-buddy"
   }
 ]
