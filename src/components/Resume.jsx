@@ -37,27 +37,6 @@ const expertise = [
   },
 ];
 
-const projects = [
-  {
-    name: "Analytics Dashboard",
-    subtitle: "Full stack | AI insights | Executive reporting",
-    impact:
-      "Built a multi-hub analytics platform that turns customer signals into leader-ready summaries, with tiered access, deep filters, and data transformation utilities for reliable KPIs.",
-  },
-  {
-    name: "ChefBonBon",
-    subtitle: "LLM-powered recipes | Database engineering",
-    impact:
-      "Created an end-to-end AI recipe experience: React + Tailwind UI, Claude-backed prompt pipeline, and a Supabase/Postgres migration with secure auth and real-time updates.",
-  },
-  {
-    name: "SynceUp",
-    subtitle: "Collaboration platform | Frontend architecture",
-    impact:
-      "Leading frontend and analytics for a mentorship platform, shaping component patterns, responsive layouts, and data stories that keep interns and alumni engaged.",
-  },
-];
-
 const wins = [
   "Migrated production data from Firebase/Firestore to Supabase/Postgres with new relational schemas, indexing, and faster queries.",
   "Implemented role-based access, admin workflows, and secure sessions to keep sensitive features guarded without slowing users down.",
@@ -136,26 +115,6 @@ export default function Resume() {
               </ul>
             </div>
           ))}
-        </div>
-
-        <div className="space-y-4">
-          <h3 className="text-2xl font-display font-bold text-slate-900">
-            Flagship Work
-          </h3>
-          <div className="grid md:grid-cols-3 gap-6">
-            {projects.map((project) => (
-              <div
-                key={project.name}
-                className="border border-zinc-200 rounded-2xl p-6 shadow-sm bg-white"
-              >
-                <p className="text-sm font-semibold text-emerald-600 uppercase tracking-wide">
-                  {project.name}
-                </p>
-                <p className="text-slate-700 font-semibold mt-1">{project.subtitle}</p>
-                <p className="text-slate-600 mt-3 leading-relaxed">{project.impact}</p>
-              </div>
-            ))}
-          </div>
         </div>
 
         <div className="space-y-3">
