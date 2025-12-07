@@ -38,8 +38,8 @@ const expertise = [
 ];
 
 const wins = [
-  "Migrated production data from Firebase/Firestore to Supabase/Postgres with new relational schemas, indexing, and faster queries.",
-  "Implemented role-based access, admin workflows, and secure sessions to keep sensitive features guarded without slowing users down.",
+  "Integrated Google Cloud auth so visitors can sign up or log in with Google without extra friction.",
+  "Surface Google profile display names right after auth so headers show names instead of emails.",
   "Optimized API and component architecture to reduce re-renders and improve perceived speed across responsive breakpoints.",
   "Delivered real-time insights with Recharts, custom UI cards, and AI summaries so stakeholders can act quickly.",
 ];
