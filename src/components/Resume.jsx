@@ -51,7 +51,7 @@ export default function Resume() {
       initial={{ opacity: 0, y: 30 }}
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.8, ease: "easeOut" }}
-      viewport={{ once: true, amount: 0.3 }}
+      viewport={{ once: true, amount: 0.1 }}
       className="bg-white text-slate-800 py-20 px-6 md:px-12 border-t border-zinc-200"
     >
       <div className="max-w-6xl mx-auto space-y-12">
