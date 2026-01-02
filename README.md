@@ -6,7 +6,7 @@
 - **LinkedIn:** [linkedin.com/in/bonny-makaniankhondo-bb95a3321](https://www.linkedin.com/in/bonny-makaniankhondo-bb95a3321/)
 - **GitHub:** [github.com/bonny2long](https://github.com/bonny2long)
 - **Portfolio:** [[bonnymakaniankhondo.netlify.app]
-](https://portfolio-by-bonny.netlify.app).
+](https://portfolio-by-bonny.netlify.app)
 ---
 
 ## Professional Summary
