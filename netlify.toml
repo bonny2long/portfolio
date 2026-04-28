@@ -4,12 +4,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://bonnymak.tech/:splat"
-  status = 301
-  force = true
-  conditions = {Host = ["portfolio-by-bonny.netlify.app"]}
-
-[[redirects]]
-  from = "/*"
   to = "/index.html"
   status = 200
