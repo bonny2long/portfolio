@@ -18,7 +18,7 @@ export default function About() {
 
         <p className="text-lg leading-relaxed text-slate-600 max-w-3xl mx-auto">
           I’m Bonny Makaniankhondo — a{" "}
-          <span className="font-semibold">Full-Stack Developer</span> with a
+          <span className="font-semibold">Full-Stack Engineer</span> with a
           background in construction engineering and a deep passion for building
           tools that make people’s lives easier. My journey into tech started
           with curiosity, learning how systems work, break, and can be improved,
